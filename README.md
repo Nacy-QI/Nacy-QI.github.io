@@ -19,7 +19,7 @@ Jekyll 需要依赖：Ruby、bundler
 
 #### 获取博客模板
 
-> $ git clone https://github.com/SYJshang/SYJshang.github.io.git
+> $ git clone https://github.com/Nacy-QI/Nacy-QI.github.io.git
 
 进SYJshang.github.io/ 目录下， 开启本地服务 
 
