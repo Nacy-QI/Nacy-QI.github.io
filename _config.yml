@@ -1,12 +1,12 @@
 # Basic
-title: SYJ
+title: 我是Nacy
 subtitle: 个人博客
 description: 欢迎来到我的个人博客~
 # 头像里面的标题
-avatarTitle: SYJshang
+avatarTitle: Nacy
 # 头像里面的描述
-avatarDesc: iOS / 安全
-url: "https://syjshang.github.io"
+avatarDesc: 测试
+url: "https://Nacy-QI.github.io"
 
 # Comment
 # comment:
@@ -17,7 +17,7 @@ url: "https://syjshang.github.io"
 # Social
 social:
     weibo: 大大大大de好人 
-    github: SYJshang
+    github: Nacy-QI
     # zhihu: panpanleopard
     # juejin: xxx
     jianshu: 17d5e93c9553
